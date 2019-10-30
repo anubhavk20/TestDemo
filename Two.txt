@@ -13,5 +13,6 @@ what is your name
 what do you want.
 <<<<<<< HEAD
 Hi Buddy
+Howdy Modi
 =======
 >>>>>>> master
