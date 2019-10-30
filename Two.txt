@@ -9,3 +9,4 @@ How are you
 what is your name
 what do you want.
 >>>>>>> ad21fe299b867b58dfe73b9f18d70d3c8dd76ffd
+Hi Buddy
