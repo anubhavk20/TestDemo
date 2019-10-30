@@ -1,18 +1,18 @@
 Hello People
 hI bROTHER
-<<<<<<< HEAD
-=======
 
->>>>>>> master
+
 line1 
 line2
 
-=======
+
 How are you
 what is your name
 what do you want.
-<<<<<<< HEAD
+
 Hi Buddy
 Howdy Modi
-=======
->>>>>>> master
+
+Hi Buddy holllaaaaaaaa
+oh mere bhai
+
