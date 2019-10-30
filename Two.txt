@@ -18,4 +18,8 @@ oh mere bhai
 Aur kya haal hai bhaisahab
 hi broo Mai Hoon Modi
 mai hoon amit shah
+<<<<<<< HEAD
 
+=======
+its all about fun
+>>>>>>> child1
